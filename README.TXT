@@ -1,14 +1,16 @@
-KABIR BHAKTA
 
-The Program is complete and giving us the desirable output.
-NOTE:- NO COMMENTS SHOULD BE THERE IN THE ENTIRE ALL 3 INPUT FILES.
-The only problem that the program will encounter is if the file format is changed or file dosent exist. Still it will run the program but the output will be blank.
+Description of Game: Clash of Legends demonstrates a game with our player being a Hero. Our hero moves across the map that we provide in .txt file. There are various obstacles in the map, if our hero moves into the obstacle it compares hero's skills with the skills required to win that obstacle. If hero has better skills then he attains additional skills and continues to move around the map. We can control the movement of our hero using arrow keys. And if the hero looses that obstacles then the game is over and our Hero dies.
+
 
 PROJECT TITLE:	CLash of Legends
 PURPOSE OF PROJECT: Building a more realistic game
 VERSION or DATE: 25th June 2020
 HOW TO START THIS PROJECT: Run main method from GameController class
 AUTHORS: Kabir Bhakta
+
+The Program is complete and giving us the desirable output.
+NOTE:- NO COMMENTS SHOULD BE THERE IN THE ENTIRE ALL 3 INPUT FILES.
+The only problem that the program will encounter is if the file format is changed or file dosent exist. Still it will run the program but the output will be blank.
 
 USER INSTRUCTIONS:
 
