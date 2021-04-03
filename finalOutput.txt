@@ -1,0 +1,166 @@
+Kabir
+The MasterMind of Universe  
+Stress: 0/14
+- Physical: 5
+- Mental:5
+- Social:2
+[Empty]
+xxxxxx- New Hero Created! -xxxxxx
+XXXXXXXXXXXXX
+X.H.....2...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+---------------------------------------------------------------
+XXXXXXXXXXXXX
+X..H....2...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...H...2...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X....H..2...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X.....H.2...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X......H2...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+---------------------------------------------------------------
+Secret Tunnel: Tunnel of Darkness
+You picked up the lose brick.You got Golden Sword [9/10]
+XXXXXXXXXXXXX
+X.......H...X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X........H..X
+X..0........X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0.....H..X
+X.....1.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0........X
+X.....1..H..X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0........X
+X.....1.H...X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0........X
+X.....1H....X
+X..3........X
+XXXXXXXXXXXXX
+
+---------------------------------------------------------------
+Scary Monster : Monsters Attacked your kingdom. 
+Can't Defeat world's best army Force.You Won Golden Sword [2/10]
+XXXXXXXXXXXXX
+X...........X
+X..0........X
+X.....H.....X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0..H.....X
+X...........X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0.H......X
+X...........X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X..0H.......X
+X...........X
+X..3........X
+XXXXXXXXXXXXX
+
+---------------------------------------------------------------
+Brothers Wedding: He is marrying the most beautiful lady!
+Bride's sister Kissed you and proposed you! Hurray!!You got Diamond Ring [social +2]
+XXXXXXXXXXXXX
+X...........X
+X..H........X
+X...........X
+X..3........X
+XXXXXXXXXXXXX
+
+XXXXXXXXXXXXX
+X...........X
+X...........X
+X..H........X
+X..3........X
+XXXXXXXXXXXXX
+
+---------------------------------------------------------------
+Chess Masterminds!: Capture opponents king
+You did it!You won Golden Sword [mental +1]
+XXXXXXXXXXXXX
+X...........X
+X...........X
+X...........X
+X..H........X
+XXXXXXXXXXXXX
+
+Our Hero Kabir was successful and still living! :-)
+Encounters left to face: 0
+=====FINAL OUTPUT====
+Kabir
+The MasterMind of Universe  
+Stress: 0/14
+- Physical: 5
+- Mental:5
+- Social:2
+[Golden Sword [10/10],Golden Sword [1/10],Diamond Ring [social +2],Golden Sword [mental +1]]
+It took 18 moves to complete the game.
+Thank you For playing the game.

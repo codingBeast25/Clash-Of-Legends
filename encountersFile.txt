@@ -1,0 +1,42 @@
+4 // total number of encounters
+// blank line for space / clarity, this should be ignored. 
+0
+Brothers Wedding
+1 7
+social
+Diamond Ring
+EquipableItem social 2
+He is marrying the most beautiful lady!
+Bride's sister Kissed you and proposed you! Hurray!!You got 
+Your Brother's wife is your ex-Girlfriend.
+
+1
+Scary Monster 
+2 7
+mental
+Golden Sword
+StackableItem 2 10
+Monsters Attacked your kingdom. 
+Can't Defeat world's best army Force.You Won 
+He destroyed your Kingdom and took all the Treasure. 
+
+2
+Secret Tunnel
+3 7
+physical
+Golden Sword
+StackableItem 9 10
+Tunnel of Darkness
+You picked up the lose brick.You got 
+The brick is too heavy for you!.
+
+3
+Chess Masterminds!
+2 7
+mental
+Golden Sword
+EquipableItem mental 1
+Capture opponents king
+You did it!You won 
+No brain in you!
+
